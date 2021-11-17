@@ -1,5 +1,7 @@
 title: Siddhu's Blog
 subtitle: Test
+baseurl: "myblog/"
+url: "https:/5iddy.github.io/myblog/"
 remote_theme: 5iddy/neonnights-jekyll
 plugins:
   - jekyll-feed
@@ -48,5 +50,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-    
+
 encoding: "utf-8"
