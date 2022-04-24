@@ -2,7 +2,7 @@ title: Siddhu's Blog
 subtitle: Test
 baseurl: "myblog/"
 url: "https:/5iddy.github.io/myblog/"
-remote_theme: 5iddy/neonnights-jekyll
+remote_theme: 5iddy/neonnights-jekyll-theme
 plugins:
   - jekyll-feed
   - jekyll-sitemap
